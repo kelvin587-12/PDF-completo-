@@ -12,6 +12,7 @@ confirmei que desenvolvimento web segue em alta demanda e oferece amplo aprendiz
 
 "Com base nessa análise, vou desenvolver três competências nos próximos seis meses: duas hard skills — aprender a programar em HTML, CSS e JavaScript — e uma soft skill — desenvolver o raciocínio analítico."
 
+<img width="856" height="439" alt="Image" src="https://github.com/user-attachments/assets/f3f4bb70-001d-4daf-a426-1a0077ed1407" />
 <img width="847" height="476" alt="Image" src="https://github.com/user-attachments/assets/b28be606-b3db-4c66-9c27-6c14e05d722b" />
 
 #DesenvolvimentoWeb #MercadoDeTI #CarreiraEmTecnologia #HardSkills #SoftSkills #AnaliseDeDados"
