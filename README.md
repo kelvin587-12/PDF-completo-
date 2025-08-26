@@ -10,7 +10,7 @@ Em resumo, o desenvolvimento web é hoje uma área estratégica, com ótimas per
 
 confirmei que desenvolvimento web segue em alta demanda e oferece amplo aprendizado contínuo. As hard skills mais requisitadas incluem HTML, CSS, JavaScript, Python, GitHub e inglês básico/intermediário. Entre as soft skills, destacam-se boa comunicação, raciocínio analítico e proatividade. As faixas salariais são atrativas para iniciantes e evoluem conforme o profissional cresce e gera impacto nas empresas.
 
-
+"Com base nessa análise, vou desenvolver três competências nos próximos seis meses: duas hard skills — aprender a programar em HTML, CSS e JavaScript — e uma soft skill — desenvolver o raciocínio analítico."
 
 
 #DesenvolvimentoWeb #MercadoDeTI #CarreiraEmTecnologia #HardSkills #SoftSkills #AnaliseDeDados"
